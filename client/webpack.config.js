@@ -36,7 +36,7 @@ module.exports = () => {
         inject: true,
         name: 'Just Another Text Editor',
         short_name: 'J.A.T.E',
-        description: 'Take notes in this text editor',
+        description: 'Take notes in this text editor with JavaScript',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: '/',
